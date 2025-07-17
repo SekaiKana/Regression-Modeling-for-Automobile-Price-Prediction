@@ -18,9 +18,10 @@ This project develops an optimal regression model to predict automobile prices u
 
 ## 📁 Repository Contents
 
-- `report.pdf` - Complete statistical analysis report
+- `Data_Analysis_Report.pdf` - Complete statistical analysis report
 - `analysis.R` - R code for data analysis and modeling
 - `README.md` - Project overview (this file)
+- `Consumer_Reports_April_2019.csv` - Original dataset from Consumer Reports
 
 ## 🔧 Methodology
 
